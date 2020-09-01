@@ -6,6 +6,7 @@
 void DrawHelloWorld()
 {
 	printf("Hello World!\n");
+	printf("ハローワールド！（ローカル）\n");
 }
 
 int main()
