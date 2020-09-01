@@ -6,13 +6,7 @@
 void DrawHelloWorld()
 {
 	printf("Hello World!\n");
-<<<<<<< HEAD
-	//今回は両方の変更を適用する
-	printf("ハローワールド！（webUI）\n");
-	printf("ハローワールド！（ローカル）\n");
-
-=======
->>>>>>> parent of 98fcfca... Update Hello world.cpp
+	printf("ハローワールド！（webUI)\n);
 }
 
 int main()
